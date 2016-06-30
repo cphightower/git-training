@@ -1,3 +1,2 @@
 This is a file containing example text.
-Suddenly, wild text appeared! This is in the hotfix branch. 
-Oh shit, conflict time.
+Oh look, conflic is resolved! How nice.
