@@ -1,2 +1,2 @@
 This is a file containing example text.
-Oh look, conflic is resolved! How nice.
+Oh look, conflict is resolved! How nice.
